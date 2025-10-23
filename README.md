@@ -3,10 +3,6 @@
 > **LUCID** = **L**earning **U**ncertainty-**C**onditioned **I**terative **D**reams  
 A lightweight training loop where a β-VAE periodically **dreams** synthetic samples, **filters** them, and **re-trains** on a **mix of real + kept-dreams** to improve reconstruction quality and downstream utility.
 
-<p align="center">
-  <img alt="val_rec trend" src="val_rec_trend.png" width="55%">
-</p>
-
 ---
 
 ## 🔍 Abstract (What & Why)
