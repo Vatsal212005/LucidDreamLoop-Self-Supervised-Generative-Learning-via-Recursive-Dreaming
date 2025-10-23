@@ -1,0 +1,37 @@
+# --- LUCID Project Git Ignore ---
+
+# Ignore Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Ignore local data directory (datasets, splits, etc.)
+data/
+data/*
+!data/.gitkeep
+
+# Python cache and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints and temporary outputs (optional, can comment out)
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter / VSCode cache
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp

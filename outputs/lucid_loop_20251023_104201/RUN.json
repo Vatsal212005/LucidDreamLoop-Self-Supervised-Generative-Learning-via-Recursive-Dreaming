@@ -1,0 +1,15 @@
+{
+  "run_dir": "C:\\Users\\ironm\\OneDrive\\Desktop\\LUCID\\outputs\\lucid_loop_20251023_104201",
+  "best_overall_val_rec": 93.60249515380859,
+  "z_dim": 64,
+  "lambda_mix_start": 0.1,
+  "lambda_mix_final": 0.1,
+  "lambda_decay": 0.0,
+  "dream_keep_pct": 0.7,
+  "dream_every": 5,
+  "dream_n_per_cycle": 5000,
+  "total_epochs": 30,
+  "base_ckpt": ".\\outputs\\vae_base_20251023_100852\\ckpts\\best.pt",
+  "resume_ckpt": null,
+  "seed": 123
+}
