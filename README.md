@@ -176,7 +176,7 @@ If you use this framework, please cite as:
 ```
 @software{lucid_loop_2025,
   title   = {LUCID Dream Loop: Self-Supervised Generative Learning via Recursive Dreaming},
-  author  = {Vatsal, Avantika},
+  author  = {Vatsal},
   year    = {2025},
   url     = {https://github.com/Vatsal212005/LucidDreamLoop-Self-Supervised-Generative-Learning-via-Recursive-Dreaming}
 }
@@ -184,5 +184,3 @@ If you use this framework, please cite as:
 
 ---
 
-## 🪶 License
-MIT License © 2025 Vatsal / Avantika
